@@ -5,7 +5,9 @@ Also the delivery menu is just new instead of adding it to the bottom.
 
 I have added a input hook which checks all the input when you are placing an order.
 
-This should be the base and you can integrate Cloud Firestore if you like & if you are really serious about this app.
+This should be the base and you can integrate Cloud Firestore  if you are really serious about this app.
+
+
 Also integrating stripe was an idea.
 
 Anyone and everyone is free to use this as they like.
