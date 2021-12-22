@@ -10,4 +10,6 @@ This should be the base and you can integrate Cloud Firestore  if you are really
 
 Also integrating stripe was an idea.
 
+Currently it is deployed in https://dataforthefoodapp.web.app/
+
 Anyone and everyone is free to use this as they like.
